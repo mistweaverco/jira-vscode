@@ -4,6 +4,10 @@ jira-vscode
 A vscode plugin to make browsing Jira more pleasant,
 based on [this Neovim plugin](https://github.com/walialu/jira.nvim).
 
+## Installation
+
+Via [vscode marketplace](https://marketplace.visualstudio.com/items?itemName=superevilmegaco.jira-vscode)
+
 ## Usage
 
  - `:JiraBrowse OE-1337` to open up a browser with the issue.
